@@ -41,6 +41,19 @@ The course emphasizes problem solving, analytical thinking, and real-world imple
 └── ...
 ```
 
+
 # homework-01.py
 Extracts all odd numbers divisible by 5 from a NumPy array.
 Demonstrates boolean indexing and array filtering in Python.
+
+# homework-02.py
+Cleans anime data using pandas by removing entries with unknown scores.
+Demonstrates data cleaning and filtering techniques with pandas DataFrames.
+
+# homework-03.py
+Performs Pareto analysis on anime data and visualizes group contributions using matplotlib.
+Demonstrates grouping, ranking, and Pareto chart creation for data analysis.
+
+# homework-04.py
+Applies simple linear regression to anime data and calculates R-squared for model evaluation.
+Demonstrates supervised learning and regression analysis using scikit-learn.
